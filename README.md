@@ -1,2 +1,2 @@
 # Test-Repo
-for testing policies and features
+For testing policies and features.
